@@ -50,7 +50,7 @@
                 Hola, <?php echo $nombre; ?>
             </h1>
 
-            <p class="lead">Bienvenido este sitio web</p>
+            <p class="lead">Bienvenido a este sitio web</p>
 
             <hr>
 
